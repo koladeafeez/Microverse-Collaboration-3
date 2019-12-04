@@ -1,0 +1,17 @@
+
+
+
+
+
+@media only screen and (min-width: 600px) {
+  #navbar {
+      width: 20%;
+      height: auto;
+      float: left;
+  }
+  }
+
+  main {
+      width: 75%;
+      float: right;
+  }
